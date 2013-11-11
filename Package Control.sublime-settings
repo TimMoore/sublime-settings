@@ -3,9 +3,11 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"Cucumber",
 		"Git",
 		"GitGutter",
 		"Package Control",
+		"Ruby Block Converter",
 		"Theme - Soda"
 	]
 }
