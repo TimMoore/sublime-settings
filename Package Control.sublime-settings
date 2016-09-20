@@ -1,13 +1,39 @@
 {
-	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Ansible",
+		"AnsibleSnippets",
+		"ApplySyntax",
 		"BracketHighlighter",
 		"Cucumber",
+		"Dotfiles Syntax Highlighting",
 		"Git",
 		"GitGutter",
+		"GitHub Flavored Markdown Preview",
+		"Gitignored File Excluder",
+		"GitSavvy",
+		"Indent XML",
+		"JavaScriptNext - ES6 Syntax",
+		"Jinja2",
+		"JSX",
+		"Markdown Extended",
 		"Package Control",
+		"RailsGoToSpec",
 		"Ruby Block Converter",
-		"Theme - Soda"
+		"Sass",
+		"SideBarEnhancements",
+		"SimpleCov",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-haml",
+		"SublimeLinter-rubocop",
+		"Theme - Spacegray"
 	]
 }

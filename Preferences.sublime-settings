@@ -1,15 +1,58 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"highlight_line": true,
-	"indent_guide_options":
+	"file_exclude_patterns":
 	[
-		"draw_normal",
-		"draw_active"
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
 	],
-	"rulers": [80],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".bundle",
+		"log",
+		"tmp",
+		"node_modules"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"icon_file_type_enable": true,
+	"ignored_packages":
+	[
+		"Git",
+		"Vintage"
+	],
+	"rulers":
+	[
+		120
+	],
+	"save_on_focus_lost": true,
+	"show_encoding": true,
 	"show_full_path": true,
-	"theme": "Soda Light.sublime-theme",
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
